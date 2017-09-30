@@ -15,5 +15,4 @@ public class MyCalendarStuff {
 	System.out.println("It is " + p.getMonths() + " months and" + p.getDays() + " days since semester started");
 	}
 	
-	
 }
