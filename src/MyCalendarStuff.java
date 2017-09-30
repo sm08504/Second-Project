@@ -14,5 +14,4 @@ public class MyCalendarStuff {
 	Period p = Period.between(startOfSemester,  current);
 	System.out.println("It is " + p.getMonths() + " months and" + p.getDays() + " days since semester started");
 	}
-
 }
